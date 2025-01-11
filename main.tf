@@ -15,6 +15,6 @@ resource "aws_instance" "jenkins_controller" {
   }
 
   tags = {
-    Name = "project10-shs-jenkins"
+    Name = "project10-shs-jenkins-test"
   }
 }
